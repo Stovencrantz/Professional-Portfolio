@@ -1,4 +1,17 @@
+.container{
+    background-color: blue;
+}
+
 .nav-link{
     font-family: 'Cantarell', sans-serif;
     font-weight: bolder;
+}
+
+img{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+footer{
+    height: 72px;
 }
