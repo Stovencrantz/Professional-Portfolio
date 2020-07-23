@@ -1,8 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    min-height: 100%;
+
+}
+body{
+    overflow: auto;
+}
+
 
 .container{
     border-style: solid;
     border-color: lightgrey;
     border-width: .1rem;
+
     
 }
 
@@ -36,6 +50,6 @@ img{
 }
 footer{
     background-color: grey;
-    position: absolute;
-    bottom: 0;
+    position: relative;
+    height: 3rem;
 }
